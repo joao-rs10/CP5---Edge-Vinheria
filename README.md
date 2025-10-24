@@ -1,12 +1,14 @@
 Projeto "Vinheria" - Prova de Conceito IoT com FIWARE
-1. Integrantes
+1. Integrantes:
+
 Erick Gabriel Ferreira dos Santos
 
 João Vitor Reis Silva
 
 Victor Henry Melchior Camara
 
-2. Resumo do Projeto
+2. Resumo do Projeto: 
+
 Este projeto consiste em uma Prova de Conceito (PoC) para a disciplina de Internet das Coisas. O objetivo é validar uma arquitetura IoT completa, demonstrando a coleta de dados de múltiplos sensores através de um microcontrolador ESP32 e a comunicação em tempo real com uma plataforma em nuvem (IoT Cloud FIWARE).
 
 A solução simula o monitoramento ambiental de uma "Vinheria", enviando dados de temperatura, umidade, luminosidade e risco de alagamento.
