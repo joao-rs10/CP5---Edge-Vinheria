@@ -62,6 +62,8 @@ JSON
   "luminosidade": { "value": 850, "type": "Integer" },
   "alagamento": { "value": 150.20, "type": "Float" }
 }
+
+
 4. Resultados da Prova de Conceito (PoC)
 
 Link do Wokwi: https://wokwi.com/projects/445655100070148097
